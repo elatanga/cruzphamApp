@@ -1,0 +1,4 @@
+{
+  "name": "CruzPham Agency Auth Framework",
+  "description": "A secure, production-ready authentication and role-based access control framework for the CruzPham Agency platform, featuring Firebase integration, service abstraction, and luxury UI."
+}
